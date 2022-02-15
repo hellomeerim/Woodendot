@@ -1,0 +1,9 @@
+@font-face {
+	font-family: 'Palatino Normal';
+	src: url('../fonts/palatino_normal.eot'); /* IE 9 Compatibility Mode */
+	src: url('../fonts/palatino_normal.eot?#iefix') format('embedded-opentype'), /* IE < 9 */
+		url('../fonts/palatino_normal.woff2') format('woff2'), /* Super Modern Browsers */
+		url('../fonts/palatino_normal.woff') format('woff'), /* Firefox >= 3.6, any other modern browser */
+		url('../fonts/palatino_normal.ttf') format('truetype'), /* Safari, Android, iOS */
+		url('../fonts/palatino_normal.svg#palatino_normal') format('svg'); /* Chrome < 4, Legacy iOS */
+}
